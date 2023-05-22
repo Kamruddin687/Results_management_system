@@ -8,7 +8,7 @@ package student_result_management_system;
 
 /**
  *
- * @author MOZAMMIL ANWAR
+ * @author kamruddin
  */
 public class adminIndex extends javax.swing.JFrame {
 
