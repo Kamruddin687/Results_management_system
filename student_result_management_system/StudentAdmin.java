@@ -7,7 +7,7 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 /**
  *
- * @author MOZAMMIL ANWAR
+ * @author kamruddin
  */
 public class StudentAdmin extends javax.swing.JFrame {
 
