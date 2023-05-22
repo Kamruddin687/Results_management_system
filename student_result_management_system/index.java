@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author MOZAMMIL ANWAR
+ * @author kamruddin
  */
 public class index extends javax.swing.JFrame {
 
