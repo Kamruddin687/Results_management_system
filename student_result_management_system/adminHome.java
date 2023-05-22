@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author MOZAMMIL ANWAR
+ * @author kamruddin
  */
 public class adminHome extends javax.swing.JFrame {
 
