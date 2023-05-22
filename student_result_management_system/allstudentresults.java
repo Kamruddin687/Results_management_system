@@ -8,7 +8,11 @@ import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 /**
  *
- * @author MOZAMMIL ANWAR
+ * @author kamruddin
+ 
+ 
+ 
+ 
  */
 public class allstudentresults extends javax.swing.JFrame {
 
